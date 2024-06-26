@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_Apple_32.c lv_font_montserratMedium_16.c lv_font_Apple_16.c lv_font_montserratMedium_32.c lv_font_montserratMedium_12.c lv_font_Apple_24.c lv_font_Apple_48.c lv_font_Apple_12.c lv_font_Apple_36.c lv_font_Apple_14.c lv_font_montserratMedium_24.c lv_font_AlimamaShuHeiTiBold_48.c lv_font_montserratMedium_48.c
